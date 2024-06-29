@@ -1,0 +1,55 @@
+{
+  "hash": "3bb3e3b7",
+  "configHash": "d5993ee5",
+  "lockfileHash": "6ab6179c",
+  "browserHash": "9e9dd8f3",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a5ae5935",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "2284196e",
+      "needsInterop": true
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/es/index.js",
+      "file": "react-redux.js",
+      "fileHash": "0c244f4b",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "97085eef",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "18dee085",
+      "needsInterop": false
+    },
+    "appwrite": {
+      "src": "../../node_modules/appwrite/dist/esm/sdk.js",
+      "file": "appwrite.js",
+      "fileHash": "7111c873",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GEPC7TCT": {
+      "file": "chunk-GEPC7TCT.js"
+    },
+    "chunk-4EE4R5TB": {
+      "file": "chunk-4EE4R5TB.js"
+    },
+    "chunk-LNEMQRCO": {
+      "file": "chunk-LNEMQRCO.js"
+    }
+  }
+}
